@@ -1,4 +1,6 @@
 # Dev_Music_player
+<p align="center"><img src="https://user-images.githubusercontent.com/75971776/132899745-22b00335-4833-4f46-9f3f-b586e4f396ab.png" height="400" width="600"></p>
+
 - A music player web app using JS
 - Link:- https://dev-music-player.vercel.app/
 ## Samples
